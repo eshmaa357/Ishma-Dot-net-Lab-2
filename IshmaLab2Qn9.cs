@@ -66,7 +66,7 @@ namespace IshmaLab2Qn9
                 prObj.Name = "School bag";
 
                 //write-only property for setting discount
-                prObj.Discount = 10; //20%
+                prObj.Discount = 10; //10%
 
                 //display product info
                 prObj.display();
